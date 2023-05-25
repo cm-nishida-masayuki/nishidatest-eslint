@@ -1,0 +1,15 @@
+{
+  "name": "@cm-nishida.masayuki/eslint-config-test",
+  "version": "0.1.0",
+  "description": "",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.59.7",
+    "eslint": "^8.41.0"
+  }
+}
